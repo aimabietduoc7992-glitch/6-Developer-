@@ -1,3 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0d1117&height=200&section=header&text=S%C3%A1u&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Discord%20Bot%20%7C%20FiveM%20%7C%20Web%20Dev&descSize=20&descAlignY=60" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&background=0D111700&center=true&vCenter=true&width=600&lines=%3E+root%40sau%3A~%24+whoami;%3E+Discord+Bot+Developer;%3E+FiveM+Script+Developer;%3E+Hello+World+%F0%9F%87%BB%F0%9F%87%B3" />
+</p>
 <h1 align="center">Xin chào, mình là Sáu 👋</h1>
 
 <p align="center">
@@ -54,10 +59,20 @@
   <img src="https://streak-stats.demolab.com?user=aimabietduoc7992-glitch&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📈 Biểu đồ hoạt động
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aimabietduoc7992-glitch&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+## 🏆 Thành tích
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aimabietduoc7992-glitch&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
 ## 📫 Liên hệ
 <p>
-  <img src="https://img.shields.io/badge/Discord-TEN_DISCORD_CUA_BAN-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Sáu-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 ---
 <p align="center">⭐ Cảm ơn bạn đã ghé thăm profile của mình!</p>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=100&section=footer" width="100%" />
